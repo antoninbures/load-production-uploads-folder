@@ -1,0 +1,1 @@
+Create a new .htaccess file in /wp-content/uploads/ 
